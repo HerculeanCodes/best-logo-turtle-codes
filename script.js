@@ -89,5 +89,5 @@ function bg6()
 		})();
 	}
 	else {
-		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Reloading.');
 	}
